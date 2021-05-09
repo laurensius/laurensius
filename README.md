@@ -1,14 +1,18 @@
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=laurensius&hide_border=true&layout=compact" align="left" />  
+<div class="row">
+  <div class="col-lg-6">
+    <div align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=laurensius&hide_border=true&layout=compact" align="center" />  
+    </div>
+  </div>
+  <div class="col-lg-6">
+    <div align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=laurensius&show_icons=true&count_private=true&hide_border=true" align="center" />
+    </div>
+  </div>
 </div>
 
 <br/>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=laurensius&show_icons=true&count_private=true&hide_border=true" align="center" />
-</div>  
-
-<br/>
 
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/android-original-wordmark.svg" alt="Android" height="50" />  
