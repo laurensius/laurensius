@@ -1,4 +1,11 @@
 <div class="row">
+  <div class="col-lg-12">
+    <img
+  src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=laurensius&badges=2&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px"
+/>
+  </div>
+</div>
+<div class="row">
   <div class="col-lg-6">
     <div align="center">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=laurensius&hide_border=true&layout=compact" align="center" />  
