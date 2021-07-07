@@ -1,10 +1,10 @@
-<div class="row">
+<!-- <div class="row">
   <div class="col-lg-12">
     <img
   src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=laurensius&badges=3&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px"
 />
   </div>
-</div>
+</div> -->
 <div class="row">
   <div class="col-lg-6">
     <div align="center">
