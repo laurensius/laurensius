@@ -1,23 +1,25 @@
-# Hi there! 👋
+# Halo! 👋
 
-I'm Laurensius, a passionate software developer from Indonesia.
+Saya Laurensius, seorang pengembang perangkat lunak yang bersemangat dari Indonesia.
 
-🚀 My skills include:
-- JavaScript (React, Node.js)
-- Python (Django)
-- HTML/CSS
-- Git
+## Tentang Saya
+Saya memiliki keahlian dalam pengembangan perangkat lunak dengan fokus utama pada teknologi web, mobile dan IoT.
 
-🌱 I’m currently learning:
-- TypeScript
-- GraphQL
+## Keterampilan
+- **Bahasa Pemrograman**: JavaScript, Python, PHP
+- **Framework**: React.js
+- **Database**: MongoDB, PostgreSQL, MySQL
+- **Versi Kontrol**: Git, GitHub
 
-💬 Ask me about anything related to web development!
+## Proyek Terkini
+- [Nama Proyek 1](link_proyek_1): Deskripsi singkat tentang proyek.
+- [Nama Proyek 2](link_proyek_2): Deskripsi singkat tentang proyek.
 
-📫 How to reach me:
-- Email: your.email@example.com
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/laurensiusds/)
-- Portfolio: [Your Portfolio Website](https://www.laurensius-dede-suhardiman.com)
+## Cara Menghubungi Saya
+Jika Anda tertarik untuk bekerja sama atau ingin menghubungi saya, silakan kirim email ke [email@example.com](mailto:email@example.com).
 
-![Visitor Count](https://profile-counter.glitch.me/laurensius/count.svg)
+## Statistik GitHub
+![Statistik GitHub](https://github-readme-stats.vercel.app/api?username=laurensius&show_icons=true&theme=radical)
 
+## Bahasa yang Sering Digunakan
+![Bahasa yang Sering Digunakan](https://github-readme-stats.vercel.app/api/top-langs/?username=laurensius&layout=compact&theme=radical)
